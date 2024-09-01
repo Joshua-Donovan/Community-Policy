@@ -1,5 +1,5 @@
 {
-  "name": "06b50e5f-2815-4e79-bc97-02996a363c4d",
+  "name": "06b50e5f-2815-4e79-bc97-02996a363c4e",
   "type": "Microsoft.Authorization/policyDefinitions",
   "properties": {
     "displayName": "Audit - Sample Products should be removed from API Management",
