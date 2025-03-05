@@ -1,4 +1,4 @@
-# Community Policy repo - Contribution guide (CHANGE FOR TEST)
+# Community Policy repo - Contribution guide
 
 This repository contains custom policies contributed by the community.
 
