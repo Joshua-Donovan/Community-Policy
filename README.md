@@ -1,4 +1,4 @@
-# Community Policy Repo (CHANGE FOR TEST)
+# Community Policy Repo
 
 <!-- 
 Guidelines on README format: https://review.docs.microsoft.com/help/onboard/admin/samples/concepts/readme-template?branch=master
