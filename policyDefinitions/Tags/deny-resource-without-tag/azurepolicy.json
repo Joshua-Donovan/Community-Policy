@@ -22,7 +22,7 @@
         "metadata": {
           "displayName": "Excluded Resource Types",
           "description": "Resource types to exclude from this policy. Useful for resource types that do not support tags.",
-          "strongType": "ResourceType"
+          "strongType": "resourceTypes"
         },
         "defaultValue": []
       },
